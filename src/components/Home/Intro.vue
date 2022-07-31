@@ -7,8 +7,8 @@
       </h1>
 
       <TextBlock>
-        <p class="-purple">Iuri de Paula</p>
-        <p class="-gray">Creative frontend developer</p>
+        <p class="-purple">Soluhunt</p>
+        <p class="-gray">Simplistic Sophistication</p>
       </TextBlock>
     </div>
   </section>
